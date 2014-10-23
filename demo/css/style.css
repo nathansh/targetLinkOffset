@@ -1,0 +1,52 @@
+body {
+	background: #fefefe;
+	color: #1b1b1b;
+	padding-top: 6.5em;
+}
+
+.wrapper {
+	width: 90%;
+	margin: 0 auto;
+	max-width: 1400px;
+	position: relative;
+}
+
+#masthead {
+	background: #1b1b1b;
+	color: #fefefe;
+	overflow: hidden;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 10;
+}
+
+#main {
+	padding-bottom: 100em;
+}
+
+.site_name {
+	margin: 0;
+	padding: 1em 0;
+	float: left;
+}
+
+.main_nav {
+	position: absolute;
+	right: 0;
+	top: 1.6em;
+}
+
+.main_nav li {
+	display: inline;
+	margin-left: 3em;
+}
+
+.main_nav li a {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 12px;
+	color: #efefef;
+	text-decoration: none;
+}
