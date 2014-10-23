@@ -17,6 +17,7 @@ Include jQuery and instantiate the plugin
         });
     });
 </script>
+```
 
 ## Options
 
@@ -27,3 +28,4 @@ linkSelector: "a[href^='#']", // Specify a different selector for target links
 boundEvent: "click.targetLinkOffset", // If you don't want bind this to click events
 animate: false, // Animation, disabled by default
 animationSpeed: 800 // You guessed it.
+```
