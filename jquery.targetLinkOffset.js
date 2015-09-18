@@ -1,3 +1,12 @@
+/*!
+* targetLinkOffset 1.0-beta
+*
+* Written by Nathan Shubert-Harbison at Domain7 (www.domain7.com).
+* 
+* Released under the WTFPL license - http://sam.zoy.org/wtfpl/
+*
+*/
+
 (function ($) {
 
 	var tlo = {
